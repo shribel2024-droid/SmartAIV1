@@ -9,3 +9,5 @@ class SmartAI(App):
         )
 
 SmartAI().run()
+
+# Workflow test
