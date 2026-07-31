@@ -23,13 +23,8 @@ android.accept_sdk_license = True
 # Architecture
 android.archs = arm64-v8a, armeabi-v7a
 
-# Logging
-log_level = 2
-
-# Permissions (add more only if needed)
+# Permissions
 android.permissions = INTERNET
 
-# Leave blank unless you specifically need them
-android.sdk =
-android.ndk_path =
-android.sdk_path =
+# Logging
+log_level = 2
